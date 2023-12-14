@@ -10,3 +10,7 @@ Welcome to my C++ practice repository! Here, I document my journey of learning C
 ## Made with C++
 
 [![Made with C++](https://img.shields.io/badge/Made%20with-C%2B%2B-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+
+## Made with C++
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="100">
