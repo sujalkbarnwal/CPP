@@ -4,5 +4,5 @@ Welcome to my C++ practice repository! Here, I document my journey of learning C
 
 ## Progress Summary
 
-- Total tutorial videos watched so far: [018/226] videos
-- Total programs written so far: [45] programs
+- Total tutorial videos watched so far: [019/226] videos
+- Total programs written so far: [46] programs
